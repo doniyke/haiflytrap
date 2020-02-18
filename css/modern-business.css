@@ -20,3 +20,13 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+/* Menu stype */
+.navbar .fixed-top .navbar-expand-lg .navbar-dark .bg-dark .fixed-top {
+  background: #04A777 !important;
+}
+
+
+/* buttons */
+
+
