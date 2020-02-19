@@ -65,4 +65,30 @@ h1, h2, h3, h4, h5, h6 {
 
 
 /* Put your css here */
+.my-bg-primary{
+  background-color: #039B24 !important;
+  color: #FCFCFC !important;
+}
+.my-text-light-default{
+  color: #FCFCFC !important;
+}
+a.nav-link{
+  color: #FCFCFC !important;
+}
 
+.my-btn-primary{
+  background-color: #3C4F77;
+  color: #FCFCFC !important;
+}
+.my-btn-primary:hover{
+  background-color: #2E3A3A;
+  color: #FCFCFC !important;
+}
+.my-btn-secondary{
+  background-color:#3C4F77
+  color: #FCFCFC !important;
+}
+.my-bg-secondary{
+  background-color: #3C4F77;
+  color: #FCFCFC !important;
+}

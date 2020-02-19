@@ -58,3 +58,29 @@ body {
     margin-left: -15rem;
   }
 }
+/* Put your css here */
+.my-bg-primary{
+  background-color: #039B24 !important;
+  color: #FCFCFC !important;
+}
+.my-text-light-default{
+  color: #FCFCFC !important;
+}
+a.nav-link{
+  color: #FCFCFC !important;
+}
+.my-btn-toggle{
+  background-color: #2E3A3A !important;
+  color: #FCFCFC !important;
+}
+.my-btn-secondary{
+  background-color: #039B24;
+  color: #FCFCFC !important;
+}
+.my-btn-secondary:hover{
+  background-color: #2E3A3A;
+  color: #FCFCFC !important;
+}
+.my-bg-secondary{
+  background-color:#3C4F77
+}
